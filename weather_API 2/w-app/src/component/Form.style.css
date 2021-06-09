@@ -1,0 +1,45 @@
+.aa {
+  background-color: #759eda;
+  height: 20vh;
+  display: flex;
+  align-items: center;
+}
+
+::placeholder {
+  color: #fcfeff;
+  opacity: 0.5;
+}
+
+.container form {
+  margin-top: 3rem;
+}
+
+.bb {
+  border: 0px;
+  height: 50px;
+  margin-left: 2%;
+  margin-right: 2%;
+  align-self: center;
+  font-family: raleway;
+  color: #fcfeff;
+  background-color: transparent;
+  border-bottom: solid 1px #5879c7;
+}
+
+.buttonn {
+  background-color: #5879c7;
+  height: 50px;
+  width: 150px;
+  border: 0px;
+  align-self: center;
+  font-family: raleway;
+  border-radius: 5%;
+}
+
+input:focus {
+  outline: none;
+}
+
+.alert {
+  color: red;
+}
